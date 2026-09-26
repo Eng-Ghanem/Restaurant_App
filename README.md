@@ -4,6 +4,19 @@ An enterprise restaurant management platform comprising an Express/Node.js backe
 
 ---
 
+## Table of Contents
+
+- [Architecture & System Overview](#architecture--system-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Database Architecture](#database-architecture)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#installation--setup)
+- [Documentation](#documentation)
+- [Author](#author)
+
+---
+
 ## Architecture & System Overview
 
 The platform coordinates operations between customer storefront ordering, table reservations, administrative inventory oversight, and delivery fleet dispatching:
